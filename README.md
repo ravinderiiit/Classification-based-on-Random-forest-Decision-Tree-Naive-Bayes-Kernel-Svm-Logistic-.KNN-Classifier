@@ -1,0 +1,2 @@
+# Classification-based-on-Random-forest-Decision-Tree-Naive-Bayes-Kernel-Svm-Logistic-.KNN-Classifier
+In a dataset their is data taken from some social networking site. Which contain column like userid ,gender, age and salary and last column is that they are having car or not .Based on their age and salary predicting whether they are car or not . First we trained our different classifier model like Random Forest,Decision Tree,Naive Bayes,Kernel SVM, Logistic Regression and  KNN after that applied on test dataset.And predicting the accuracy of each model.
